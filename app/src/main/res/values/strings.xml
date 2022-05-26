@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Falling Cocktails</string>
+    <string name="facebook_app_id">3133484266908241</string>
+    <string name="facebook_client_token">5cd4aa01a75fa22f9257db52d3a0326d</string>
+    <string name="apps_dev_key">8g5dxa8yjFnSGAd8mDbqEL</string>
+    <string name="one_signal">ede4156c-0039-471e-ae88-f7aa4bc1e622</string>
+
+    <string name="secure_get_parametr">bBcgUcMBJo</string>
+    <string name="secure_key">FiM9mXy3Jl</string>
+    <string name="dev_tmz_key">VSxFhBIqeY</string>
+    <string name="gadid_key">yi13UrBmFo</string>
+    <string name="deeplink_key">3nGcGebzuq</string>
+    <string name="source_key">dnMY0Ihwdv</string>
+    <string name="af_id_key">BE6mzkwYDJ</string>
+    <string name="adset_id_key">gz9gEiaXnv</string>
+    <string name="campaign_id_key">qXpujoo4nU</string>
+    <string name="app_campaign_key">OpbXgqAi7y</string>
+    <string name="adset_key">Kdvd7R07yP</string>
+    <string name="adgroup_key">6h40Cr4sWZ</string>
+    <string name="orig_cost_key">JFfzvJL0Gr</string>
+    <string name="af_siteid_key">mUYnfS5hma</string>
+    <string name="spin">Spin</string>
+
+    <array name="dirs">
+        <item>/sbin/</item>
+        <item>/system/bin/</item>
+        <item>/system/xbin/</item>
+        <item>/data/local/xbin/</item>
+        <item>/data/local/bin/</item>
+        <item>/system/sd/xbin/</item>
+        <item>/system/bin/failsafe/</item>
+        <item>/data/local/</item>
+    </array>
+</resources>
